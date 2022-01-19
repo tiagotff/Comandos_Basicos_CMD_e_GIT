@@ -1,1 +1,1 @@
-# Python_tips
+# Comandos básicos Prompt CMD e GIT mais utilizados (Windows).
