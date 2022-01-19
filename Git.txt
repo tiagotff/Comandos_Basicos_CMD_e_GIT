@@ -1,0 +1,44 @@
+
+
+**************************************************
+Comandos GIT
+**************************************************
+
+
+cd nome >>> entra na pasta
+cd .. >>> retorna para a pasta anterior
+
+git clone + cópia >>> 
+
+salvar arquivo na pasta do git
+
+git add . >>> prepara as mudanças realizadas no diretório local
+
+git status >>> lista os arquivos que foram modificados
+
+git commit -m "mensagem" >>> grava a alteração e dá a mensagem
+
+git config --global user.name "nome"
+
+git config --global user.email t.faustino91@gmail.com
+
+**************************************************
+Para subir pro GitHub é preciso aida dar um Push
+
+
+git push origin master
+
+**************************************************
+
+Pull >>> puxar os arquivos do Gitub pra máquina
+Push >>> empurrar os arquivos da máquina pro GitHub
+
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+
+CLS -> Limpa a tela do CMD e coloca o cursor na primeira linha
+do prompt.
+
+	
