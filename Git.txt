@@ -1,44 +1,46 @@
 
 
 **************************************************
-Comandos GIT
+*******  Comandos basicos GIT e Prompt CMD *******
 **************************************************
 
 
-cd nome >>> entra na pasta
-cd .. >>> retorna para a pasta anterior
-
-git clone + cópia >>> 
-
+git clone + cópia >>> Copia um Repositório GIT existente num novo diretório
+   |
+   V
 salvar arquivo na pasta do git
 
-git add . >>> prepara as mudanças realizadas no diretório local
 
-git status >>> lista os arquivos que foram modificados
+git add . >>> Prepara as mudanças realizadas no diretório local
 
-git commit -m "mensagem" >>> grava a alteração e dá a mensagem
+
+git status >>> Lista os arquivos que foram modificados
+
+git commit -m "mensagem" >>> Grava a alteração e dá a mensagem
 
 git config --global user.name "nome"
 
-git config --global user.email t.faustino91@gmail.com
+git config --global user.email nome@provedor.com
+
+
+Para subir pro GitHub é preciso aida dar um Push >>> git push
 
 **************************************************
-Para subir pro GitHub é preciso aida dar um Push
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+Pull >>> 'Puxar' os arquivos do Gitub pra máquina
+Push >>> 'Empurrar' os arquivos da máquina pro GitHub
 
-git push origin master
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 **************************************************
 
-Pull >>> puxar os arquivos do Gitub pra máquina
-Push >>> empurrar os arquivos da máquina pro GitHub
+cd nome >>> Entra na pasta. CD -> Change Direcory
 
-**************************************************
-**************************************************
-**************************************************
-**************************************************
+cd .. >>> Retorna para a pasta anterior
 
-CLS -> Limpa a tela do CMD e coloca o cursor na primeira linha
-do prompt.
+cls -> Limpa a tela do CMD e coloca o cursor na primeira linha do prompt.
+
+dir -> Permite a visualizaão do conteúdo de uma pasta no Windows
+
 
 	
